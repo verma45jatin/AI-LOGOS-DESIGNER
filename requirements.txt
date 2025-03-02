@@ -1,0 +1,6 @@
+gradio
+diffusers
+torch
+torchvision
+transformers
+accelerate

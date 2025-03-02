@@ -1,10 +1,11 @@
-# AI Logo Generator #
+# AI Logo Generator 
 
 ## 🎨 Create Stunning & Unique Logos Instantly with AI! 🚀
 
 This project is an AI-powered logo generator built using **Stable Diffusion** and **Gradio**. It takes user-defined text prompts and generates multiple variations of logos based on the given description.
 
 ---
+
 ## Features
 - ✅ **Generate AI-designed logos** based on user input.
 - ✅ **Multiple variations**: Generates 3 different logo designs per request.
@@ -14,6 +15,7 @@ This project is an AI-powered logo generator built using **Stable Diffusion** an
 - ✅ **Random Prompt Generator**: Get inspired with random example prompts.
 
 ---
+
 ## 🛠️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
@@ -47,14 +49,16 @@ If you prefer to run the project on **Google Colab** with GPU support:
 4. Run `app.py` in Colab and access the Gradio interface via the generated link.
 
 ---
+
 ## 📌 Usage Guide
-1. **Enter a prompt** describing the type of logo you want (e.g., "Modern gaming logo with cyberpunk feel").
+1. **Enter a prompt** describing the type of logo you want (e.g., `"Modern gaming logo with cyberpunk feel"`).
 2. Click the **Generate Logos** button 🚀.
 3. View the generated **AI-created logos** in the gallery.
 4. Click the **Download** button 📥 to save your favorite logo.
 5. Use the **Random Example** button 🎲 for inspiration if you're unsure what to enter.
 
 ---
+
 ## 📸 Example Prompts
 Here are some example prompts you can try:
 - **"Minimalist tech startup logo in blue and white"**
@@ -64,16 +68,15 @@ Here are some example prompts you can try:
 - **"Modern gaming company logo with a cyberpunk feel"**
 
 ---
+
 ## 🖥️ Technology Stack
 - **Stable Diffusion** (for AI image generation)
 - **Gradio** (for UI interface)
 - **PyTorch** (for model execution)
 
 ---
+
 ## 🚀 Future Improvements
 - **Custom color palette selection** for generated logos.
 - **Additional AI models** to refine logo designs.
 - **Better resolution options** for high-quality output.
-
----
-

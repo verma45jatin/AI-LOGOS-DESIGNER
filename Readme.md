@@ -27,7 +27,7 @@ cd AI-Logo-Generator
 ### 2️⃣ Install Required Dependencies
 Ensure you have Python installed (preferably **Python 3.8+**). Then, install the required libraries:
 ```sh
-pip install gradio diffusers torch torchvision torchaudio
+pip install gradio 
 ```
 
 **Note**: If you're using **CUDA for GPU acceleration**, install the compatible PyTorch version from [PyTorch's official site](https://pytorch.org/get-started/locally/).
@@ -42,9 +42,9 @@ This will start a Gradio web interface where you can enter prompts and generate 
 If you prefer to run the project on **Google Colab** with GPU support:
 1. Open [Google Colab](https://colab.research.google.com/)
 2. Upload the `app.py` file
-3. Run the required installation commands in a Colab cell:
+3. First change runtime type to T4 GPU and then Run the required installation commands in a Colab cell:
     ```sh
-    !pip install gradio diffusers torch torchvision torchaudio
+    !pip install gradio 
     ```
 4. Run `app.py` in Colab and access the Gradio interface via the generated link.
 

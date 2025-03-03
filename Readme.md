@@ -20,8 +20,8 @@ This project is an AI-powered logo generator built using **Stable Diffusion** an
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/AI-Logo-Generator.git
-cd AI-Logo-Generator
+git clone https://github.com/verma45jatin/AI-LOGOS-DESIGNER
+cd AI-LOGOS-DESIGNER
 ```
 
 ### 2️⃣ Install Required Dependencies

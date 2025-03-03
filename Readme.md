@@ -18,27 +18,7 @@ This project is an AI-powered logo generator built using **Stable Diffusion** an
 
 ## 🛠️ Installation & Setup
 
-### 1️⃣ Clone the Repository
-```sh
-git clone https://github.com/verma45jatin/AI-LOGOS-DESIGNER
-cd AI-LOGOS-DESIGNER
-```
-
-### 2️⃣ Install Required Dependencies
-Ensure you have Python installed (preferably **Python 3.8+**). Then, install the required libraries:
-```sh
-pip install gradio 
-```
-
-**Note**: If you're using **CUDA for GPU acceleration**, install the compatible PyTorch version from [PyTorch's official site](https://pytorch.org/get-started/locally/).
-
-### 3️⃣ Run the Application
-```sh
-python app.py
-```
-This will start a Gradio web interface where you can enter prompts and generate logos.
-
-### 4️⃣ (Optional) Run in Google Colab
+### 1️⃣ Run in Google Colab
 If you prefer to run the project on **Google Colab** with GPU support:
 1. Open [Google Colab](https://colab.research.google.com/)
 2. Upload the `app.py` file

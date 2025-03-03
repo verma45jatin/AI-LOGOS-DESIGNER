@@ -21,7 +21,7 @@ This project is an AI-powered logo generator built using **Stable Diffusion** an
 ### 1️⃣ Run in Google Colab
 If you prefer to run the project on **Google Colab** with GPU support:
 1. Open [Google Colab](https://colab.research.google.com/)
-2. Upload the `app.py` file and cy image.png file .
+2. Upload the `app.py` file and `cy image.png` file .
 3. First change runtime type to T4 GPU and then Run the required installation commands in a Colab cell:
     ```sh
     !pip install gradio 

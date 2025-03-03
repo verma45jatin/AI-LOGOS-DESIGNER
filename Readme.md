@@ -26,7 +26,7 @@ If you prefer to run the project on **Google Colab** with GPU support:
     ```sh
     !pip install gradio 
     ```
-4. Run `app.py` in Colab and access the Gradio interface via the generated link.
+4.First upload cy image.png file in colab and then Run `app.py` in Colab and access the Gradio interface via the generated link.
 
 ---
 
